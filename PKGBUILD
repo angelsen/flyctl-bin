@@ -1,4 +1,3 @@
-# Maintainer: Jerome Gravel-Niquet <jeromegn@gmail.com>
 # Contributer: Fredrik Angelsen <fredrikangelsen@gmail.com>
 
 pkgname="flyctl-bin"
