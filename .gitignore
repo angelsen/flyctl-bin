@@ -1,0 +1,18 @@
+# Ignore build artifacts
+*.tar.*
+*.tar
+*.pkg.*
+*.src.*
+*.pkg.tar.zst
+*.pkg.tar.gz
+*.pkg.tar.xz
+*.tar.xz
+*.tgz
+
+# Ignore temporary files
+*.log
+*~
+
+# Ignore directories generated during build
+src/
+pkg/
