@@ -1,5 +1,5 @@
 # Maintainer: Jerome Gravel-Niquet <jeromegn@gmail.com>
-# Co-maintainer: Fredrik Angelsen <fredrikangelsen@gmail.com>
+# Contributer: Fredrik Angelsen <fredrikangelsen@gmail.com>
 
 pkgname="flyctl-bin"
 pkgver="0.3.31"
